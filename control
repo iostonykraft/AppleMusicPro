@@ -1,0 +1,9 @@
+Package: com.tonykraft.applemusicpro
+Name: AppleMusicPro
+Depends: mobilesubstrate, firmware (>= 8.4)
+Version: 0.1~alpha
+Architecture: iphoneos-arm
+Description: This is alpha, do not consider it full release. Please email me and tell me if it works. Features so far: Unlimited Skips and No Ads, more coming soon. iOS 8.4 and above only.
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Author: Tony Kraft <iostonykraft@gmail.com>
+Section: Tweaks
